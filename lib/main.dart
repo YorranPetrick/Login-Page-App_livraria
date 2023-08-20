@@ -49,7 +49,7 @@ class App extends StatelessWidget {
                   height: 80,
                 ),
                 Image(
-                  image: const AssetImage('Image/Livro.jpg'),
+                  image: const AssetImage('lib/Image/Livro.jpg'),
                 ),
                 SizedBox(
                   width: 300, //Vai alterar a largura de forma automática
